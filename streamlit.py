@@ -10,7 +10,9 @@ import streamlit_tags as st_tags
 # Get the Ticker Values
 # ******************************************************************************
 # Link for Ticker Info
-st.header(
+st.header("Financial Ratio Visualizer")
+
+st.subheader(
     "Please find the Ticker name from the EDGAR [website](https://www.sec.gov/edgar/searchedgar/companysearch)")
 
 

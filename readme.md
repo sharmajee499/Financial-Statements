@@ -28,7 +28,7 @@ With the accquired data, we calculated the financial ratio through the respectiv
 
 ### Implication
 
-There are already thousands of website conveying the same information in more fancy and optimized way. The purpose of making this one is to show how easy and handy it is to use the [Streamlit](https://streamlit.io/). Data Scientist and Analyst doesn't have time to create a UI app using HTML, CSS and Javascript etc. from scratch. With tools like Streamlit, we can easily convey our result and data insights to the business stakeholder
+There are already thousands of website conveying the same information in more fancy and optimized way. The purpose of making this one is to show how easy and handy it is to use the [Streamlit](https://streamlit.io/). Data Scientist and Analyst doesn't have time to create a UI app using HTML, CSS and Javascript etc. from scratch. With tools like Streamlit, we can easily convey our result and data insights to the business stakeholder in no time.
 
 
 ### Requirements
