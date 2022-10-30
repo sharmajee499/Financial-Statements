@@ -1,0 +1,5 @@
+finpie==0.1364
+pandas==1.4.4
+plotly==5.10.0
+streamlit_tags==1.2.8
+yfinance==0.1.74
